@@ -212,18 +212,3 @@ section img#mountains_front {
     max-width: 300px;
     height: auto;
 }
-.demo-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
-}
-
-.demo-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-}
